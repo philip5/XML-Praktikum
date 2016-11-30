@@ -58,16 +58,39 @@
     <use id="house-p2-5" xlink:href="#house-p2" x="68.75%" />
     <use id="house-p2-6" xlink:href="#house-p2" x="81.25%" />
     
-    <!-- Example seeds -->
+    <!-- stone -->
+    
+   <group>
+  <stoneLine xlink:href="Mancala.xml" xlink:show="embed" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</group>
+
+
+
+
+<svg id="seed">   
+        <circle cx="18.75%" cy="17.5%" r="1%" fill="red" />
+           <circle cx="18.75%" cy="15.5%" r="1%" fill="blue" />
+            <circle cx="19.75%" cy="16.5%" r="1%" fill="green" />
+              <circle cx="20.75%" cy="14.5%" r="1%" fill="red" />
+           <circle cx="31.75%" cy="17.5%" r="1%" fill="yellow" />
+           
+     
+    </svg>
+   
+   
+   
+   
+   
+   
     <!-- Number of seeds in stores represented as numbers -->
-    <svg id="store-p1-score">
+ <!--   <svg id="store-p1-score">
         <text x="7%" y="36%" font-size="50" fill="black" text-anchor="middle" >16</text>
     </svg>
     <svg id="store-p2-score">	
         <text x="93%" y="36%" font-size="50" fill="black" text-anchor="middle" >0</text>
     </svg>
-    <!-- Number of seeds in houses represented as black dots -->
+     Number of seeds in houses represented as black dots
     <svg id="seed">
         <circle cx="18.75%" cy="17.5%" r="1%" fill="black" />
-    </svg>
+    </svg>-->
 </svg>

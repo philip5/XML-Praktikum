@@ -1,0 +1,76 @@
+<?xml-stylesheet type="text/xsl" href="mancalaXSLT.xsl"?>
+<game>
+  <gameID>0</gameID>
+  <finished>0</finished>
+  <curplayer>1</curplayer>
+  <slot type="store" ID="0">
+    <owner>1</owner>
+    <count>5</count>
+  </slot>
+  <slot type="store" ID="7">
+    <owner>2</owner>
+    <count>4</count>
+  </slot>
+  <slot type="house" ID="1">
+    <owner>1</owner>
+    <count>5</count>
+    <pos>0</pos>
+  </slot>
+  <slot type="house" ID="2">
+    <owner>1</owner>
+    <count>5</count>
+    <pos>1</pos>
+  </slot>
+  <slot type="house" ID="3">
+    <owner>1</owner>
+    <count>4</count>
+    <pos>2</pos>
+  </slot>
+  <slot type="house" ID="4">
+    <owner>1</owner>
+    <count>4</count>
+    <pos>3</pos>
+  </slot>
+  <slot type="house" ID="5">
+    <owner>1</owner>
+    <count>4</count>
+    <pos>4</pos>
+  </slot>
+  <slot type="house" ID="6">
+    <owner>1</owner>
+    <count>4</count>
+    <pos>5</pos>
+  </slot>
+  <slot type="house" ID="8">
+    <owner>2</owner>
+    <count>4</count>
+    <pos>0</pos>
+  </slot>
+  <slot type="house" ID="9">
+    <owner>2</owner>
+    <count>5</count>
+    <pos>1</pos>
+  </slot>
+  <slot type="house" ID="10">
+    <owner>2</owner>
+    <count>5</count>
+    <pos>2</pos>
+  </slot>
+  <slot type="house" ID="11">
+    <owner>2</owner>
+    <count>5</count>
+    <pos>3</pos>
+  </slot>
+  <slot type="house" ID="12">
+    <owner>2</owner>
+    <count>1</count>
+    <pos>4</pos>
+  </slot>
+  <slot type="house" ID="13">
+    <owner>2</owner>
+    <count>5</count>
+    <pos>5</pos>
+  </slot>
+  <player playerID="1"/>
+  <player playerID="2"/>
+</game>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<game gameID = "0" lastCount = "0" clickedHouseID = "0"> 
+	<finished>0</finished>
+	<curplayer>1</curplayer>
+	
+	<slot type = "store" ID = "13"> 
+		<owner>2</owner> 
+      	<count>0</count> 
+	</slot> 
+	
+	<slot type = "store" ID = "6"> 
+		<owner>1</owner> 
+      	<count>0</count> 
+	</slot> 
+	
+	<slot type = "house" ID = "0"> 
+     	<owner>1</owner> 
+      	<count>4</count> 
+		<pos>0</pos>
+  	</slot>
+  	
+  	<slot type = "house" ID = "1"> 
+     	<owner>1</owner> 
+      	<count>4</count>
+		<pos>1</pos>
+  	</slot>
+    
+    <slot type = "house" ID = "2"> 
+     	<owner>1</owner> 
+      	<count>4</count> 
+		<pos>2</pos>
+	</slot>
+  	
+  	<slot type = "house" ID = "3"> 
+     	<owner>1</owner> 
+      	<count>4</count> 
+		<pos>3</pos>
+  	</slot>
+  	
+  	<slot type = "house" ID = "4"> 
+     	<owner>1</owner> 
+      	<count>4</count> 
+		<pos>4</pos>
+  	</slot>
+  	
+  	<slot type = "house" ID = "5"> 
+     	<owner>1</owner> 
+      	<count>4</count> 
+		<pos>5</pos>
+  	</slot>
+  	
+  	<slot type = "house" ID = "7"> 
+     	<owner>2</owner> 
+      	<count>4</count> 
+		<pos>0</pos>
+  	</slot>
+  	
+  	<slot type = "house" ID = "8"> 
+     	<owner>2</owner> 
+      	<count>4</count>
+		<pos>1</pos>
+  	</slot>
+    
+    <slot type = "house" ID = "9"> 
+     	<owner>2</owner> 
+      	<count>4</count>
+		<pos>2</pos>
+  	</slot>
+  	
+  	<slot type = "house" ID = "10"> 
+     	<owner>2</owner> 
+      	<count>4</count> 
+		<pos>3</pos>
+  	</slot>
+  	
+  	<slot type = "house" ID = "11"> 
+     	<owner>2</owner> 
+      	<count>4</count> 
+		<pos>4</pos>
+  	</slot>
+  	
+  	<slot type = "house" ID = "12"> 
+     	<owner>2</owner> 
+      	<count>4</count>
+		<pos>5</pos>
+  	</slot>
+ 
+</game>  

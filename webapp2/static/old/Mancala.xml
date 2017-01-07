@@ -1,0 +1,94 @@
+<game> 
+	<finished>0</finished>
+	<gameID>0</gameID>
+	<curplayer>1</curplayer>
+	
+	<slot ID = "0"> 
+		<owner>1</owner> 
+      	<count>0</count> 
+      	<store>1</store>
+	</slot> 
+	
+	<slot ID = "7"> 
+		<owner>2</owner> 
+      	<count>0</count> 
+      	<store>1</store>
+	</slot> 
+	
+	<slot ID = "1"> 
+     	<owner>1</owner> 
+      	<count>4</count> 
+      	<store>0</store>
+  	</slot>
+  	
+  	<slot ID = "2"> 
+     	<owner>1</owner> 
+      	<count>4</count> 
+      	<store>0</store>
+  	</slot>
+    
+    <slot ID = "3"> 
+     	<owner>1</owner> 
+      	<count>4</count> 
+      	<store>0</store>
+  	</slot>
+  	
+  	<slot ID = "4"> 
+     	<owner>1</owner> 
+      	<count>4</count> 
+      	<store>0</store>
+  	</slot>
+  	
+  	<slot ID = "5"> 
+     	<owner>1</owner> 
+      	<count>4</count> 
+      	<store>0</store>
+  	</slot>
+  	
+  	<slot ID = "6"> 
+     	<owner>1</owner> 
+      	<count>4</count> 
+      	<store>0</store>
+  	</slot>
+  	
+  	<slot ID = "8"> 
+     	<owner>2</owner> 
+      	<count>4</count> 
+      	<store>0</store>
+  	</slot>
+  	
+  	<slot ID = "9"> 
+     	<owner>2</owner> 
+      	<count>4</count> 
+      	<store>0</store>
+  	</slot>
+    
+    <slot ID = "10"> 
+     	<owner>2</owner> 
+      	<count>4</count> 
+      	<store>0</store>
+  	</slot>
+  	
+  	<slot ID = "11"> 
+     	<owner>2</owner> 
+      	<count>4</count> 
+      	<store>0</store>
+  	</slot>
+  	
+  	<slot ID = "12"> 
+     	<owner>2</owner> 
+      	<count>4</count> 
+      	<store>0</store>
+  	</slot>
+  	
+  	<slot ID = "13"> 
+     	<owner>2</owner> 
+      	<count>4</count> 
+      	<store>0</store>
+  	</slot>
+  	
+   <player playerID = "1">
+   </player> 
+   <player playerID = "2">
+   </player> 
+</game>  

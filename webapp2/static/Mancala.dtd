@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT game (finished,gameID,curplayer,slot*,player*)>
+	<!ELEMENT finished (#PCDATA)>
+	<!ELEMENT gameID (#PCDATA)>
+	<!ELEMENT curplayer (#PCDATA)>
+	<!ELEMENT slot (owner,count,store)>
+	<!ATTLIST slot ID CDATA #REQUIRED>
+		<!ELEMENT ID (#PCDATA)>
+		<!ELEMENT owner (#PCDATA)>
+		<!ELEMENT count (#PCDATA)>
+		<!ELEMENT store (#PCDATA)>
+	
+	<!ELEMENT player (#PCDATA)>
+	<!ATTLIST player playerID CDATA #REQUIRED>
+		
+
